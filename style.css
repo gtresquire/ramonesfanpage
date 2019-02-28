@@ -1,0 +1,46 @@
+body {
+    background-image: url("pinknblkwall.gif" )
+   }
+
+   /*  background-color: beige;
+    opacity: .9 */
+
+body {color: yellow}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+#div1 {
+    text-align: center;
+}
+
+
+h2 {
+    font-size: 30px;
+}
+
+
+#div1{
+    margin-right: auto;
+}
+
+#para1 {
+    font-size: 18px;
+}
+
+#para2 {
+    font-size: 22px;
+}
+
+#list {
+    font-size: 22px;
+}
+
+a {color: rgb(60, 255, 0); font-size: 22px}
+
+
+footer{
+    text-align: center;
+}
